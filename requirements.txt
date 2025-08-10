@@ -1,8 +1,7 @@
-streamlit==1.37.1
-streamlit-webrtc==0.45.0
-fer==22.5.0
-opencv-python-headless==4.9.0.80
-moviepy==1.0.3
-tensorflow-cpu==2.20.0
-keras==2.17.0
-numpy
+streamlit
+streamlit-webrtc
+fer
+opencv-python-headless
+tensorflow-cpu==2.17.0
+keras
+moviepy
