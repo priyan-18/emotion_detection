@@ -5,4 +5,4 @@ opencv-python-headless==4.9.0.80
 moviepy==1.0.3
 tensorflow-cpu==2.17.0
 keras==2.17.0
-numpy==1.26.4
+numpy
