@@ -11,3 +11,8 @@ opencv-python-headless
 fer
 tensorflow
 keras
+streamlit
+streamlit-webrtc
+fer
+opencv-python-headless
+moviepy
