@@ -4,3 +4,10 @@ opencv-python
 fer
 tensorflow-cpu
 numpy
+
+streamlit
+streamlit-webrtc
+opencv-python-headless
+fer
+tensorflow
+keras
